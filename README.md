@@ -23,6 +23,7 @@ Kurulum
 Desteklenen SMS Firmaları
 ----------------------
 
+* mySMTsms (Global, Nigerian)
 * ClickAtell (Global)
 * NetGsm (Türkiye)
 * UcuzSmsAl (Türkiye)
@@ -98,6 +99,7 @@ Installation
 Supported SMS Gateways
 ---------------
 
+* mySMTsms (Global, Nigerian)
 * ClickAtell (Global)
 * NetGsm (Turkey)
 * UcuzSmsAl (Turkey)
